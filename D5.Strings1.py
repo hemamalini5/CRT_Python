@@ -1,0 +1,10 @@
+#string
+String=input("Enter your name:")
+print(String)
+print(String.upper())
+print(String.lower())
+print(String.swapcase())
+print(String.title())
+print(String.capitalize())
+print(String.replace("a","@"))
+print(String.strip())
